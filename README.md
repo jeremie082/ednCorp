@@ -1,1 +1,2 @@
 # ednCorp
+version 2
